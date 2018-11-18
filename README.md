@@ -1,6 +1,6 @@
 # roboFriends
 Dynamically search through friends to find a robot!
 
-#Check out what the app does:
+### take a look:
 
 ![](RoboFriendsPortfolioPic.png)
